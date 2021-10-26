@@ -1,0 +1,121 @@
+INFO  2021-06-08 15:45:49 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-06-08 15:45:49 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-06-08 15:45:49 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-06-08 15:50:09 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-06-08 15:50:09 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-06-08 15:50:09 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-06-08 15:50:09 [main] lesson6.homework6.Server.MyServer (MyServer.java:29) - Сервер успешно запущен
+INFO  2021-06-08 15:50:09 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 15:50:24 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 15:57:38 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-06-08 15:57:38 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-06-08 15:57:38 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-06-08 15:57:38 [main] lesson6.homework6.Server.MyServer (MyServer.java:29) - Сервер успешно запущен
+INFO  2021-06-08 15:57:38 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 15:57:40 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-1
+INFO  2021-06-08 15:57:40 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 15:57:44 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-1 аутентифицирован под ником: nick1
+INFO  2021-06-08 15:57:44 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick1 зашел в чат
+INFO  2021-06-08 15:57:52 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: fd
+INFO  2021-06-08 15:58:00 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /clients
+INFO  2021-06-08 15:58:13 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /newnick nick1 lolk
+INFO  2021-06-08 15:58:13 [pool-2-thread-2] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:99) - Изменения в БД произведены успешно
+INFO  2021-06-08 15:58:13 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:154) - nick1 сменил ник на lolk
+INFO  2021-06-08 15:58:32 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от lolk: /newnick lolk nick1
+INFO  2021-06-08 15:58:32 [pool-2-thread-2] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:99) - Изменения в БД произведены успешно
+INFO  2021-06-08 15:58:32 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:154) - lolk сменил ник на nick1
+INFO  2021-06-08 15:58:39 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /showtable
+INFO  2021-06-08 15:58:46 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /end
+INFO  2021-06-08 15:59:39 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-2
+INFO  2021-06-08 15:59:39 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 15:59:42 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-2 аутентифицирован под ником: nick1
+INFO  2021-06-08 15:59:42 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick1 зашел в чат
+INFO  2021-06-08 16:00:42 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-3
+INFO  2021-06-08 16:00:42 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:00:44 [pool-4-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-3 аутентифицирован под ником: nick2
+INFO  2021-06-08 16:00:44 [pool-4-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick2 зашел в чат
+INFO  2021-06-08 16:00:48 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-4
+INFO  2021-06-08 16:00:48 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:00:50 [pool-5-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-4 аутентифицирован под ником: nick1
+INFO  2021-06-08 16:00:50 [pool-5-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick1 зашел в чат
+INFO  2021-06-08 16:00:59 [pool-4-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick2: /end
+INFO  2021-06-08 16:01:26 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-5
+INFO  2021-06-08 16:01:26 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:02:56 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-06-08 16:02:56 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-06-08 16:02:56 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-06-08 16:02:56 [main] lesson6.homework6.Server.MyServer (MyServer.java:29) - Сервер успешно запущен
+INFO  2021-06-08 16:02:56 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:02:59 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-1
+INFO  2021-06-08 16:02:59 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:03:02 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-1 аутентифицирован под ником: nick1
+INFO  2021-06-08 16:03:02 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick1 зашел в чат
+INFO  2021-06-08 16:03:08 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /ens
+INFO  2021-06-08 16:03:12 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /end
+INFO  2021-06-08 16:03:12 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:196) - nick1 вышел из чата
+INFO  2021-06-08 16:03:18 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-2
+INFO  2021-06-08 16:03:18 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:03:20 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:196) - UNKNOWN-2 вышел из чата
+INFO  2021-06-08 16:04:21 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-06-08 16:04:21 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-06-08 16:04:21 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-06-08 16:04:21 [main] lesson6.homework6.Server.MyServer (MyServer.java:29) - Сервер успешно запущен
+INFO  2021-06-08 16:04:21 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:04:24 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-1
+INFO  2021-06-08 16:04:24 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:04:28 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-1 аутентифицирован под ником: nick1
+INFO  2021-06-08 16:04:28 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick1 зашел в чат
+INFO  2021-06-08 16:04:35 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /end
+INFO  2021-06-08 16:04:35 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:198) - nick1 вышел из чата
+INFO  2021-06-08 16:04:45 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-2
+INFO  2021-06-08 16:04:45 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:04:47 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-2 аутентифицирован под ником: nick1
+INFO  2021-06-08 16:04:47 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick1 зашел в чат
+INFO  2021-06-08 16:04:51 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-3
+INFO  2021-06-08 16:04:51 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:04:53 [pool-4-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-3 аутентифицирован под ником: nick2
+INFO  2021-06-08 16:04:53 [pool-4-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick2 зашел в чат
+INFO  2021-06-08 16:05:06 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /end
+INFO  2021-06-08 16:05:06 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:198) - nick1 вышел из чата
+INFO  2021-06-08 16:05:15 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-4
+INFO  2021-06-08 16:05:15 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:05:16 [pool-5-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:198) - UNKNOWN-4 вышел из чата
+INFO  2021-06-08 16:05:16 [pool-4-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:198) - nick2 вышел из чата
+INFO  2021-06-08 16:05:45 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-06-08 16:05:45 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-06-08 16:05:45 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-06-08 16:05:45 [main] lesson6.homework6.Server.MyServer (MyServer.java:29) - Сервер успешно запущен
+INFO  2021-06-08 16:05:45 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:05:56 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-1
+INFO  2021-06-08 16:05:56 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:05:57 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-2
+INFO  2021-06-08 16:05:57 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:05:59 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-2 аутентифицирован под ником: nick1
+INFO  2021-06-08 16:05:59 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick1 зашел в чат
+INFO  2021-06-08 16:06:05 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:105) - UNKNOWN-1 аутентифицирован под ником: nick2
+INFO  2021-06-08 16:06:05 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:107) - nick2 зашел в чат
+INFO  2021-06-08 16:06:19 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:124) - от nick1: /end
+INFO  2021-06-08 16:06:19 [pool-3-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:198) - nick1 вышел из чата
+INFO  2021-06-08 16:06:22 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:38) - Подключился UNKNOWN-3
+INFO  2021-06-08 16:06:22 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-08 16:06:31 [pool-4-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:198) - UNKNOWN-3 вышел из чата
+INFO  2021-06-08 16:06:35 [pool-2-thread-2] lesson6.homework6.Server.ClientHandler (ClientHandler.java:198) - nick2 вышел из чата
+INFO  2021-06-14 00:21:42 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-06-14 00:21:42 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-06-14 00:21:42 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-06-14 00:21:42 [main] lesson6.homework6.Server.MyServer (MyServer.java:29) - Сервер успешно запущен
+INFO  2021-06-14 00:21:42 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-14 00:22:04 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:39) - Подключился UNKNOWN-1
+INFO  2021-06-14 00:22:04 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-14 00:22:34 [pool-2-thread-1] lesson6.homework6.Server.ClientHandler (ClientHandler.java:186) - UNKNOWN-1 вышел из чата
+INFO  2021-06-14 00:22:41 [main] lesson6.homework6.Server.ClientHandler (ClientHandler.java:39) - Подключился UNKNOWN-2
+INFO  2021-06-14 00:22:41 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+INFO  2021-06-14 00:23:05 [pool-3-thread-1] lesson6.homework6.Server.ClientHandler (ClientHandler.java:85) - UNKNOWN-2 аутентифицирован под ником: nick1
+INFO  2021-06-14 00:23:05 [pool-3-thread-1] lesson6.homework6.Server.ClientHandler (ClientHandler.java:87) - nick1 зашел в чат
+INFO  2021-06-14 00:23:16 [pool-3-thread-1] lesson6.homework6.Server.ClientHandler (ClientHandler.java:186) - nick1 вышел из чата
+INFO  2021-10-15 16:44:26 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:141) - Успешное подключение к базе данных
+INFO  2021-10-15 16:44:26 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:43) - Таблица уже существует
+INFO  2021-10-15 16:44:26 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:49) - Таблица уже заполнена
+INFO  2021-10-15 16:44:26 [main] lesson6.homework6.Server.MyServer (MyServer.java:29) - Сервер успешно запущен
+INFO  2021-10-15 16:44:26 [main] lesson6.homework6.Server.MyServer (MyServer.java:33) - Сервер ожидает подключения
+ERROR 2021-10-15 16:46:47 [main] lesson6.homework6.Server.BaseAuthService (BaseAuthService.java:144) - Ошибка подключения к базе дынных

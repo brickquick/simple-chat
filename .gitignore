@@ -1,0 +1,4 @@
+# Project exclude paths
+/client-javafx/target/
+/client-swing/target/
+/server/target/

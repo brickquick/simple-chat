@@ -1,0 +1,316 @@
+ERROR 2021-10-26 22:48:04 [main] quick.brick.BaseAuthService (BaseAuthService.java:134) - Ошибка подключения к базе дынных
+INFO  2021-10-26 22:49:26 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-26 22:49:26 [main] quick.brick.BaseAuthService (BaseAuthService.java:173) - Таблица создана успешно
+INFO  2021-10-26 22:49:26 [main] quick.brick.BaseAuthService (BaseAuthService.java:187) - INSERT INTO entries successfully
+INFO  2021-10-26 22:51:31 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-26 22:51:31 [main] quick.brick.BaseAuthService (BaseAuthService.java:41) - Таблица уже существует
+INFO  2021-10-26 22:51:31 [main] quick.brick.BaseAuthService (BaseAuthService.java:46) - Таблица уже заполнена
+ERROR 2021-10-26 22:52:42 [main] quick.brick.MyServer (MyServer.java:33) - Ошибка в работе сервера
+ERROR 2021-10-26 22:54:37 [main] quick.brick.MyServer (MyServer.java:33) - Ошибка в работе сервера
+ERROR 2021-10-26 22:55:20 [main] quick.brick.MyServer (MyServer.java:33) - Ошибка в работе сервера
+ERROR 2021-10-26 22:55:39 [main] quick.brick.MyServer (MyServer.java:33) - Ошибка в работе сервера
+ERROR 2021-10-26 22:56:14 [main] quick.brick.MyServer (MyServer.java:34) - Ошибка в работе сервера
+INFO  2021-10-26 22:57:34 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-26 22:57:34 [main] quick.brick.BaseAuthService (BaseAuthService.java:173) - Таблица создана успешно
+INFO  2021-10-26 22:57:34 [main] quick.brick.BaseAuthService (BaseAuthService.java:187) - INSERT INTO entries successfully
+INFO  2021-10-26 22:58:22 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-26 22:58:22 [main] quick.brick.BaseAuthService (BaseAuthService.java:173) - Таблица создана успешно
+INFO  2021-10-26 22:58:22 [main] quick.brick.BaseAuthService (BaseAuthService.java:187) - INSERT INTO entries successfully
+INFO  2021-10-26 22:58:22 [main] quick.brick.MyServer (MyServer.java:25) - Сервер успешно запущен
+INFO  2021-10-26 22:58:22 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 22:59:04 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-26 22:59:04 [main] quick.brick.BaseAuthService (BaseAuthService.java:173) - Таблица создана успешно
+INFO  2021-10-26 22:59:04 [main] quick.brick.BaseAuthService (BaseAuthService.java:187) - INSERT INTO entries successfully
+INFO  2021-10-26 22:59:04 [main] quick.brick.MyServer (MyServer.java:25) - Сервер успешно запущен
+INFO  2021-10-26 22:59:04 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:18:21 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-1
+INFO  2021-10-26 23:18:21 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:18:24 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-1 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:18:24 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:18:26 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: ыва
+INFO  2021-10-26 23:18:27 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: ыва
+INFO  2021-10-26 23:18:28 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: 34
+INFO  2021-10-26 23:18:28 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: 23
+INFO  2021-10-26 23:18:28 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: 42
+INFO  2021-10-26 23:18:28 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: 44
+INFO  2021-10-26 23:18:31 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: а
+INFO  2021-10-26 23:18:34 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: ы
+INFO  2021-10-26 23:18:45 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: /close
+INFO  2021-10-26 23:18:48 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: /help
+INFO  2021-10-26 23:18:52 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: /exit
+INFO  2021-10-26 23:18:57 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:22:02 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-2
+INFO  2021-10-26 23:22:02 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:22:05 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-2 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:22:05 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:22:11 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: /exit
+INFO  2021-10-26 23:22:11 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:22:16 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-3
+INFO  2021-10-26 23:22:16 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:22:24 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-3 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:22:24 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:22:27 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:24:09 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-4
+INFO  2021-10-26 23:24:09 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:24:10 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-4 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:24:10 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:24:16 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: /exit
+INFO  2021-10-26 23:24:16 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:24:20 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-5
+INFO  2021-10-26 23:24:20 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:24:28 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-5 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:24:28 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:24:31 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:26:13 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-6
+INFO  2021-10-26 23:26:13 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:26:15 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-6 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:26:15 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:26:22 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: /exit
+INFO  2021-10-26 23:26:22 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:26:27 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-7
+INFO  2021-10-26 23:26:27 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:27:39 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-8
+INFO  2021-10-26 23:27:39 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:27:41 [pool-9-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-8 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:27:41 [pool-9-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:27:44 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-9
+INFO  2021-10-26 23:27:44 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:27:48 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-9 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:27:48 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:27:55 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: sdfsdf
+INFO  2021-10-26 23:28:08 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: /exit
+INFO  2021-10-26 23:28:08 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:28:15 [pool-9-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:33:01 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-10
+INFO  2021-10-26 23:33:01 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:33:32 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-11
+INFO  2021-10-26 23:33:32 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:33:34 [pool-12-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-11 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:33:34 [pool-12-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:33:40 [pool-12-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick1: /exit
+INFO  2021-10-26 23:33:40 [pool-12-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:41:35 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-12
+INFO  2021-10-26 23:41:35 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:41:38 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-12 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:41:38 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:41:42 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: dfg
+INFO  2021-10-26 23:41:42 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: g
+INFO  2021-10-26 23:41:42 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: dfg
+INFO  2021-10-26 23:41:43 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: dfg
+INFO  2021-10-26 23:41:43 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: gr
+INFO  2021-10-26 23:41:43 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: r
+INFO  2021-10-26 23:41:53 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: /exit
+INFO  2021-10-26 23:41:55 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: sdf
+INFO  2021-10-26 23:42:01 [pool-13-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:46:24 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-13
+INFO  2021-10-26 23:46:24 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:46:26 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-13 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:46:26 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:46:29 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: sdf
+INFO  2021-10-26 23:46:30 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: fd
+INFO  2021-10-26 23:46:30 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: f
+INFO  2021-10-26 23:46:31 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: sdf
+INFO  2021-10-26 23:46:31 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: sdf
+INFO  2021-10-26 23:46:31 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: fd
+INFO  2021-10-26 23:46:31 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: ff
+INFO  2021-10-26 23:46:32 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: df
+INFO  2021-10-26 23:46:36 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: /exit
+INFO  2021-10-26 23:46:40 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: /end
+INFO  2021-10-26 23:46:40 [pool-14-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:46:44 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-14
+INFO  2021-10-26 23:46:44 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:46:53 [pool-15-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-14 аутентифицирован под ником: nick1
+INFO  2021-10-26 23:46:53 [pool-15-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick1 зашел в чат
+INFO  2021-10-26 23:47:08 [pool-15-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick1 вышел из чата
+INFO  2021-10-26 23:47:58 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-15
+INFO  2021-10-26 23:47:58 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:48:00 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-15 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:48:00 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:48:03 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: dsf
+INFO  2021-10-26 23:48:05 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: sdf
+INFO  2021-10-26 23:48:05 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: df
+INFO  2021-10-26 23:48:06 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: dfdf
+INFO  2021-10-26 23:48:06 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: d
+INFO  2021-10-26 23:48:06 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: fd
+INFO  2021-10-26 23:48:06 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: fdf
+INFO  2021-10-26 23:48:07 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: f
+INFO  2021-10-26 23:48:08 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: 3
+INFO  2021-10-26 23:48:08 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: 42
+INFO  2021-10-26 23:48:08 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: 44
+INFO  2021-10-26 23:48:08 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: 34
+INFO  2021-10-26 23:48:08 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: 24
+INFO  2021-10-26 23:48:14 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: /end
+INFO  2021-10-26 23:48:14 [pool-16-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:48:26 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-16
+INFO  2021-10-26 23:48:26 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:48:27 [pool-17-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-16 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:48:27 [pool-17-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:48:31 [pool-17-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:49:58 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-17
+INFO  2021-10-26 23:49:58 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:50:00 [pool-18-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-17 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:50:00 [pool-18-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:50:07 [pool-18-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: /end
+INFO  2021-10-26 23:50:07 [pool-18-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:50:58 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-18
+INFO  2021-10-26 23:50:58 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:50:59 [pool-19-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-18 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:50:59 [pool-19-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:51:04 [pool-19-thread-1] quick.brick.ClientHandler (ClientHandler.java:103) - от nick2: /end
+INFO  2021-10-26 23:51:04 [pool-19-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:51:07 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-19
+INFO  2021-10-26 23:51:07 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:51:13 [pool-20-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-19 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:51:13 [pool-20-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:51:19 [pool-20-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:56:06 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-20
+INFO  2021-10-26 23:56:06 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:56:07 [pool-21-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-20 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:56:07 [pool-21-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:56:07 [pool-21-thread-1] quick.brick.ClientHandler (ClientHandler.java:177) - nick2 вышел из чата
+INFO  2021-10-26 23:56:26 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-26 23:56:26 [main] quick.brick.BaseAuthService (BaseAuthService.java:41) - Таблица уже существует
+INFO  2021-10-26 23:56:26 [main] quick.brick.BaseAuthService (BaseAuthService.java:46) - Таблица уже заполнена
+INFO  2021-10-26 23:56:26 [main] quick.brick.MyServer (MyServer.java:25) - Сервер успешно запущен
+INFO  2021-10-26 23:56:26 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:56:32 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-1
+INFO  2021-10-26 23:56:32 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:56:33 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-1 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:56:33 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:56:33 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:180) - nick2 вышел из чата
+INFO  2021-10-26 23:56:36 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-2
+INFO  2021-10-26 23:56:36 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:57:48 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-3
+INFO  2021-10-26 23:57:48 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-26 23:57:50 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:77) - UNKNOWN-3 аутентифицирован под ником: nick2
+INFO  2021-10-26 23:57:50 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:79) - nick2 зашел в чат
+INFO  2021-10-26 23:58:04 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:180) - nick2 вышел из чата
+INFO  2021-10-27 00:06:43 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-4
+INFO  2021-10-27 00:06:43 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:07:02 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-27 00:07:02 [main] quick.brick.BaseAuthService (BaseAuthService.java:41) - Таблица уже существует
+INFO  2021-10-27 00:07:02 [main] quick.brick.BaseAuthService (BaseAuthService.java:46) - Таблица уже заполнена
+INFO  2021-10-27 00:07:02 [main] quick.brick.MyServer (MyServer.java:25) - Сервер успешно запущен
+INFO  2021-10-27 00:07:02 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:13:32 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-1
+INFO  2021-10-27 00:13:32 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:13:34 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-1 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:13:34 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:13:42 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /help
+INFO  2021-10-27 00:13:57 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: sdf
+INFO  2021-10-27 00:14:01 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /end
+INFO  2021-10-27 00:14:01 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:14:38 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-2
+INFO  2021-10-27 00:14:38 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:15:35 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-3
+INFO  2021-10-27 00:15:35 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:15:41 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-4
+INFO  2021-10-27 00:15:41 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:15:43 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-4 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:15:43 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:16:13 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-27 00:16:13 [main] quick.brick.BaseAuthService (BaseAuthService.java:41) - Таблица уже существует
+INFO  2021-10-27 00:16:13 [main] quick.brick.BaseAuthService (BaseAuthService.java:46) - Таблица уже заполнена
+INFO  2021-10-27 00:16:13 [main] quick.brick.MyServer (MyServer.java:25) - Сервер успешно запущен
+INFO  2021-10-27 00:16:13 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:17:34 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-1
+INFO  2021-10-27 00:17:34 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:17:36 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-1 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:17:36 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:17:42 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: d
+INFO  2021-10-27 00:17:45 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /end
+INFO  2021-10-27 00:17:45 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:17:51 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-2
+INFO  2021-10-27 00:17:51 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:17:57 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-2 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:17:57 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:26:59 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-27 00:26:59 [main] quick.brick.BaseAuthService (BaseAuthService.java:41) - Таблица уже существует
+INFO  2021-10-27 00:26:59 [main] quick.brick.BaseAuthService (BaseAuthService.java:46) - Таблица уже заполнена
+INFO  2021-10-27 00:26:59 [main] quick.brick.MyServer (MyServer.java:25) - Сервер успешно запущен
+INFO  2021-10-27 00:26:59 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:27:02 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-1
+INFO  2021-10-27 00:27:02 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:27:12 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-1 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:27:12 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:27:16 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:28:52 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-2
+INFO  2021-10-27 00:28:52 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:28:56 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-2 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:28:56 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:29:01 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:30:22 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-3
+INFO  2021-10-27 00:30:22 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:30:25 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-3 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:30:25 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:30:32 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:32:32 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-4
+INFO  2021-10-27 00:32:32 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:32:36 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-4 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:32:36 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:32:40 [pool-5-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:32:51 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-5
+INFO  2021-10-27 00:32:51 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:32:56 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-5 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:32:56 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:33:03 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:35:05 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-6
+INFO  2021-10-27 00:35:05 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:35:06 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-6 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:35:06 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:35:15 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /end
+INFO  2021-10-27 00:35:15 [pool-7-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:35:19 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-7
+INFO  2021-10-27 00:35:19 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:35:51 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-8
+INFO  2021-10-27 00:35:51 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:36:40 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-9
+INFO  2021-10-27 00:36:40 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:36:45 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-9 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:36:45 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:36:49 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /end
+INFO  2021-10-27 00:36:49 [pool-10-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:36:52 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-10
+INFO  2021-10-27 00:36:52 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:38:43 [main] quick.brick.BaseAuthService (BaseAuthService.java:131) - Успешное подключение к базе данных
+INFO  2021-10-27 00:38:43 [main] quick.brick.BaseAuthService (BaseAuthService.java:41) - Таблица уже существует
+INFO  2021-10-27 00:38:43 [main] quick.brick.BaseAuthService (BaseAuthService.java:46) - Таблица уже заполнена
+INFO  2021-10-27 00:38:43 [main] quick.brick.MyServer (MyServer.java:25) - Сервер успешно запущен
+INFO  2021-10-27 00:38:43 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:38:47 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-1
+INFO  2021-10-27 00:38:47 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:38:49 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-1 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:38:49 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:38:53 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: sdf
+INFO  2021-10-27 00:38:53 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: sdf
+INFO  2021-10-27 00:38:53 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: sdf
+INFO  2021-10-27 00:38:54 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: sdf
+INFO  2021-10-27 00:38:54 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: sd
+INFO  2021-10-27 00:38:54 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: fe
+INFO  2021-10-27 00:38:55 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: er
+INFO  2021-10-27 00:38:56 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: r
+INFO  2021-10-27 00:39:06 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /end
+INFO  2021-10-27 00:39:06 [pool-2-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:39:09 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-2
+INFO  2021-10-27 00:39:09 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:39:16 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-2 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:39:16 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:39:22 [pool-3-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:42:33 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-3
+INFO  2021-10-27 00:42:33 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:42:34 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-3 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:42:34 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:42:42 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /sdf
+INFO  2021-10-27 00:42:47 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /help
+INFO  2021-10-27 00:42:49 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /end
+INFO  2021-10-27 00:42:49 [pool-4-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:43:06 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-4
+INFO  2021-10-27 00:43:06 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:43:34 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-5
+INFO  2021-10-27 00:43:34 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
+INFO  2021-10-27 00:43:37 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:74) - UNKNOWN-5 аутентифицирован под ником: nick2
+INFO  2021-10-27 00:43:37 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:76) - nick2 зашел в чат
+INFO  2021-10-27 00:43:41 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:100) - от nick2: /end
+INFO  2021-10-27 00:43:41 [pool-6-thread-1] quick.brick.ClientHandler (ClientHandler.java:178) - nick2 вышел из чата
+INFO  2021-10-27 00:43:44 [main] quick.brick.ClientHandler (ClientHandler.java:33) - Подключился UNKNOWN-6
+INFO  2021-10-27 00:43:44 [main] quick.brick.MyServer (MyServer.java:28) - Сервер ожидает подключения
