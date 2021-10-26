@@ -23,3 +23,4 @@ nick2 зашел в чат
 nick2: sdfsdf
 nick2 вышел из чата
 nick1 зашел в чат
+nick1 зашел в чат

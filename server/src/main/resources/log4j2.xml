@@ -3,7 +3,7 @@
 <Configuration>
 
     <Properties>
-        <Property name="basePath">logs</Property>
+        <Property name="basePath">server/logs</Property>
     </Properties>
 
     <Appenders>
